@@ -1,4 +1,4 @@
-**Project: Predictive Modeling for Cab Driver Attrition**
+**Predictive Modeling for Cab Driver Attrition**
 
 1. *Conducted a comprehensive analysis on cab drivers' attrition, utilizing advanced statistical techniques and domain knowledge to identify critical factors influencing turnover in the transportation industry.*
 
